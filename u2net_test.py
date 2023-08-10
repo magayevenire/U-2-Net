@@ -55,6 +55,7 @@ def main():
 
     # --------- 1. get image path and name ---------
     model_name='u2net'#u2netp
+    model_name='u2netp'#u2netp
 
 
 
